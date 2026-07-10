@@ -1,8 +1,8 @@
 # Black-Scholes Option Pricing Heatmap
 
-This repository contains my project which implements the **Black-Scholes option pricing model** in Python and provides an interactive **Streamlit** application for pricing European call and put options.
+This repository contains my project which implements the Black-Scholes option pricing model in Python and provides an interactive Streamlit application for pricing European call and put options.
 
-Users can adjust key model parameters and visualise how option prices change through dynamic heatmaps.
+Users can explore how option prices change with different stock prices and volatility levels through interactive heatmaps.
 
 ---
 
@@ -11,8 +11,8 @@ Users can adjust key model parameters and visualise how option prices change thr
 - Python
 - Streamlit
 - NumPy
-- SciPy
 - Pandas
+- SciPy
 - Matplotlib
 - Seaborn
 
